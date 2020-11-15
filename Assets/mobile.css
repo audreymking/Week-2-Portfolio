@@ -1,5 +1,5 @@
 /*changes format of webpage when screen changes*/
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 728px) {
     body {
         color: peachpuff;
         background-color: black;
