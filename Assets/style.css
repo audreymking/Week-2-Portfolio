@@ -1,21 +1,47 @@
+/*body*/
 body {
     background-color: powderblue;
 }
+
+/*font color for headers*/
 h1 { 
     color: navy;
 }
-.btn {
-    color: magenta;
+
+/*font type of title*/
+title {
+    font-weight: 2000;
 }
+
+/*centers paragraphs*/
+p {
+    text-align: center;
+}
+/*color for button text*/
+.button {
+    color: white;
+}
+
+/*card size*/
 .card {
     margin: 0 auto;
     margin-bottom: 10px;
 }
+
+/*center and size images*/
 .img-thumbnail-center {
     display:flex;
-    width:300px;
+    width: 300px;
 
 }
-.img-thumbnail{
+
+/*adjust size of jumbotron*/
+.jumbotron {
+    
+    color: black;
+    position: center;
+    margin: 30px;
 
 }
+
+

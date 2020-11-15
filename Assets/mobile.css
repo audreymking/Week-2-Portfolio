@@ -1,12 +1,9 @@
 
 @media screen and (max-width: 600px) {
     body {
-       
         background-color: black;
     }
-}
-@media screen and (max-width: 600px) {
-    .topnav a {
-      float: none;
-      width: 100%;
+    .jumbotron {
+        margin: 0px;
     }
+}
