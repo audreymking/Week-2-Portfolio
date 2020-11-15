@@ -1,0 +1,21 @@
+body {
+    background-color: powderblue;
+}
+h1 { 
+    color: navy;
+}
+.btn {
+    color: magenta;
+}
+.card {
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+.img-thumbnail-center {
+    display:flex;
+    width:300px;
+
+}
+.img-thumbnail{
+
+}
